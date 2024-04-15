@@ -69,7 +69,7 @@ texinfo iw git`
 - `spotify-launcher`.
 - `swayidle` - idle management daemon.
 - `swaylock-effects` - a nice lock screen.
-- `swaync` - i'm not entirely sure.
+- `swaync` - notification daemon.
 - `waybar` - a bar at the top with info.
 - `wlogout` - logout, shutdown, etc. settings.
 - `xdg-desktop-portal-hyprland` - windows using xdg.
@@ -84,12 +84,14 @@ texinfo iw git`
 ### Audio
 - `pamixer`.
 - `pipewire`.
+- `wireplumber`.
 - `pipewire-jack`.
 - `pipewire-pulse`.
 ### Graphics
 - `lib32-nvidia-utils`.
 - `nvidia`.
 - `nvidia-settings`.
+- `nvidia-dkms`.
 - `vulkan-extra-layers`.
 - `vulkan-extra-tools`.
 - `vulkan-html-docs`.
@@ -154,6 +156,7 @@ texinfo iw git`
 - `ripgrep`.
 - `tree`.
 - `wget`.
+- `curl`.
 ### Editors
 - `neovim`.
 - `vi`.
